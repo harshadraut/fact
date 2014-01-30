@@ -3,6 +3,6 @@
 int main(){
 
 	int n;
-
+	/*  Find fact */	
 	return 0;
 }
